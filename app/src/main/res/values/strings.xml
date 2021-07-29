@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Download Image Example</string>
+    <string name="download_image_txt">Get your ZHIGA</string>
+    <string name="image_from_internet">image from internet</string>
+</resources>
